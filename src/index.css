@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: "GraphikLight";
+    font-weight: 300;
+    src: url("fonts/GraphikLight.otf") format("otf");
+}
+@font-face {
+    font-family: "GraphikRegular";
+    font-weight: normal;
+    src: url("fonts/GraphikRegular.otf") format("otf");
+}
+@font-face {
+    font-family: "GraphikMedium";
+    font-weight: 500;
+    src: url("fonts/GraphikMedium.otf") format("otf");
+}
+@font-face {
+    font-family: "GraphikSemibold";
+    font-weight: 600;
+    src: url("fonts/GraphikSemibold.otf") format("otf");
+}
+@font-face {
+    font-family: "GraphikBold";
+    font-weight: bold;
+    src: url("fonts/GraphikBold.otf") format("otf");
+}
